@@ -1,0 +1,19 @@
+.title {
+    font-size: 50px;
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 20px;
+    text-align: center;
+}
+
+.literally {
+    width: 400px;
+    margin: 2% auto;
+}
+
+#submit-button {
+    display: block;
+    text-align: center;
+}
